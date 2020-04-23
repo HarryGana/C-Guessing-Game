@@ -1,0 +1,3 @@
+C:\Users\FRCN\Guessing\obj\Debug\netcoreapp3.1\Guessing.csprojAssemblyReference.cache
+C:\Users\FRCN\Guessing\obj\Debug\netcoreapp3.1\Guessing.AssemblyInfoInputs.cache
+C:\Users\FRCN\Guessing\obj\Debug\netcoreapp3.1\Guessing.AssemblyInfo.cs
